@@ -1,0 +1,19 @@
+# Core Data Science and Machine Learning
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+
+# Web scraping and API requests
+requests>=2.28.0
+playwright>=1.30.0
+
+# Natural Language Processing
+nltk>=3.8
+
+# Development and Testing (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Configuration and Environment
+python-dotenv>=0.19.0
